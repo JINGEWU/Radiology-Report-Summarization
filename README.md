@@ -76,7 +76,7 @@ Before running this, you need to make sure the following things are in the corre
 │       ├── fine_tune_train.py
 │       └── utils.py
 ├── README.md
-
+├── requirements.txt
 ```
 
 1. to obatin fine-tune data, see [here](https://github.com/abachaa/MEDIQA2021/tree/main/Task3)
@@ -99,7 +99,7 @@ python MLM/run_mlm_RM.py
     --output_dir ../checkpoint
 ```
 
-for fine-tuning, you can use pre-trained models from huggingface:
+for fine-tuning, you can use pre-trained models from [huggingface](https://huggingface.co/):
 
 ```
 python fine_tune/fine_tune_train.py 
