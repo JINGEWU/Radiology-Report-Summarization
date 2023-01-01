@@ -1,0 +1,10 @@
+datasets==2.7.0
+evaluate==0.4.0
+nlp2==1.8.48
+numpy==1.23.5
+pytorch_lightning==1.8.0
+rouge==1.0.1
+torch==1.12.0+cu113
+torchmetrics==0.10.3
+tqdm==4.64.1
+transformers==4.25.1
