@@ -1,4 +1,4 @@
-# pretrain-MLM-task-and-fine-tune-with-radiology-report-summarization
+# Radiology-Report-Summarization
 
 This repo develop a domain adaption training method for radiology report summarization. It has two parts 
 - re-training BART model with Masked Language Masking (MLM) task using medical entities
