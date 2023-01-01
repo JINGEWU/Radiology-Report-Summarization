@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2022/12/20 00:00
 # @File : run_mlm_SM.py
-# @Project : pretrain_bart-main
+# @Author: JW
 
 
 #!/usr/bin/env python
