@@ -90,7 +90,7 @@ python MLM/run_mlm_RM.py
     --model_name_or_path ../model/RM
     --line_by_line 
     --num_train_epochs 20
-    --train_file ../data/retrain/MIMIC_test_full.txt 
+    --train_file ../data/retrain/MIMIC_train_full.txt 
     --validation_file ../data/retrain/MIMIC_test_full.txt
     --per_device_train_batch_size 4
     --per_device_eval_batch_size 4 
